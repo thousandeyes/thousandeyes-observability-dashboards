@@ -1,6 +1,6 @@
 # ThousandEyes Dashboards
 
-This repository contains the ThousandEyes dashboards for the different observability backends.
+This repository contains  dashboards representing ThousandEyes telemetry data for the different observability backends.
 
 ### Splunk Observability Cloud
 
@@ -9,6 +9,7 @@ This repository contains the ThousandEyes dashboards for the different observabi
 ### Grafana
 
 [Grafana Dashboard](grafana/ThousandEyesDashboard.json)
+
 [Setup Guide](grafana/grafana-setup.md)
 
 ### DataDog
