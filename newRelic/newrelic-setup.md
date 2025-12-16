@@ -31,3 +31,4 @@ Adjust the variable defaults or selections in the dashboard UI to match the Thou
 
 Once the placeholders and variables are configured, the widgets will begin populating with your ThousandEyes telemetry stored in New Relic.
 
+

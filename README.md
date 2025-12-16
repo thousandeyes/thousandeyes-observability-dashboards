@@ -41,3 +41,11 @@ This repository contains  dashboards representing ThousandEyes telemetry data fo
 [Signoz Dashboard](signoz/ThousandEyesDashboard.json)
 
 ![Signoz Dashboard](signoz/dashboard.png)
+
+### Google Cloud Monitoring
+
+[Google Cloud Monitoring Dashboard](googleCloudMonitoring/ThousandeyesDashboard.json)
+
+[Setup Guide](https://github.com/antonjim-te/thousandeyes-google-cloud-integration)
+
+![Google Cloud Monitoring Dashboard](googleCloudMonitoring/dashboard.png)
