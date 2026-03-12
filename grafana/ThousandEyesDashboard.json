@@ -73,7 +73,7 @@
       "title": "ThousandEyes for OpenTelemetry Docs",
       "tooltip": "",
       "type": "link",
-      "url": "https://docs.thousandeyes.com/product-documentation/integration-guides/custom-built-integrations/opentelemetry"
+      "url": "https://docs.thousandeyes.com/product-documentation/integration-guides/opentelemetry"
     },
     {
       "asDropdown": false,
@@ -85,7 +85,7 @@
       "title": "Data Model v1",
       "tooltip": "ThousandEyes for OpenTelemetry Data Model v1 ",
       "type": "link",
-      "url": "https://docs.thousandeyes.com/product-documentation/integration-guides/custom-built-integrations/opentelemetry/data-model/data-model-v1"
+      "url": "https://docs.thousandeyes.com/product-documentation/integration-guides/opentelemetry/data-model/data-model-v1"
     }
   ],
   "panels": [
