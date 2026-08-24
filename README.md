@@ -6,7 +6,9 @@ This repository contains  dashboards representing ThousandEyes telemetry data fo
 
 [Splunk Observability Cloud Dashboard](splunk/ThousandEyesDashboard.json)
 
-![Splunk Observability Cloud Dashboard](splunk/dashboard.png)
+![Splunk Observability Cloud Application Dashboard](splunk/dashboard.png)
+
+![Splunk Observability Cloud Network Dashboard](splunk/dashboard-network.png)
 
 ### Grafana
 
